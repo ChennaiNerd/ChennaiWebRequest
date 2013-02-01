@@ -1,6 +1,6 @@
 # ChennaiWebRequest: Built better chennai
 
-The [ChennaiJS organization](http://chennaijs.github.com) is a community of developers creating open source software. This is a place to submit ideas for new projects and to get involved in building them.
+The [ChennaiJS organization](https://github.com/ChennaiJS) is a community of developers creating open source software. This is a place to submit ideas for new projects and to get involved in building them.
 
 ## Submitting an idea or request
 
