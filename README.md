@@ -1,8 +1,8 @@
-# ChennaiWebRequest: Built better chennai
+## ChennaiWebRequest: Built better chennai
 
 The [ChennaiNerd](https://github.com/ChennaiNerd) is a community of developers creating open source software. This is a place to submit ideas for new projects and to get involved in building them.
 
-## Submitting an idea or request
+### Submitting an idea or request
 
 All individual ideas start life in the [issue tracker](https://github.com/ChennaiNerd/ChennaiWebRequest/issues).
 
